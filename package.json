@@ -1,0 +1,21 @@
+{
+  "name": "LHV2-node-state",
+  "version": "1.0.0",
+  "description": "Control your lighthouse v2 station",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "taldrain",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/noble": "1.9.2-15",
+    "commander": "9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.10.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.25.4"
+  }
+}
