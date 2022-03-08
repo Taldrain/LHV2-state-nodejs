@@ -1,7 +1,7 @@
 {
-  "name": "LHV2-node-state",
+  "name": "LHV2-node-statejs",
   "version": "1.0.0",
-  "description": "Control your lighthouse v2 station",
+  "description": "Control the state of your lighthouse v2 station",
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint src/"

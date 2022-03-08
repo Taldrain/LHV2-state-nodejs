@@ -1,4 +1,4 @@
-LHV2 - node-state
+LHV2-state-nodejs
 -----------------
 
 ## Setup
